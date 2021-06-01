@@ -1,5 +1,6 @@
 # Recipe-Mangager
 
+This app is still under development, which needs to be migrated from React Navigation 4 to React Navigation 5.
 In order to run this app, you need to install Expo CLI and have Android Studio ready with an Emulator. Follow the guides below:
 
 Initializing node modules:
